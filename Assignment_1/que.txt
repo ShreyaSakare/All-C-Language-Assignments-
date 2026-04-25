@@ -1,0 +1,44 @@
+Assignment 1
+
+WAP(Write a program)
+
+Q1.WAP to declare 2 variables.Initialize them and print their values.
+Violate all the rules given about variables.Check what compiler is 
+giving message on each violation.
+
+Q2.Scan 2 integers from user.Print their values.
+
+Q3.Scan a character,an integer and a fraction values from user.
+Scan these values in the following sequence.
+1=char , int , float
+2=int , char , float
+See the difference in both sequences.
+
+Q4.Scan marks of three subjects of a student.Print their average.
+
+Q5.Scan a number from user.Print its square and cube.
+
+Q6.Scan temperature from user in celcius.Convert it in farhenheit.
+
+Q7.WAP to scan any character from user and print its ascii value.
+Check ascii values of 'A','a','Z','z','\n','\t','0','1','9'.
+
+Q8.Scan 4 digit number from user.Print each of its digit seperately.
+
+Q9.Scan 2 integers from user.Print their addition without using + sign.
+
+Q10.Scan length and width of rectangle from user.Print area and 
+perimeter of a rectangle.
+
+Q11.Scan radius of circle from user.Print area and circumference of circle.
+
+Q12.Scan 2 integers from user.Check which one is greater and which one is smaller.
+
+Q13.Try programs of increment and decrement operators seen in lecture on your machine.
+Check the output and understand the execution.Do not forget volatile keyword.
+
+Q14.Scan principle amount,rate of interest and number of years from user.Calculate 
+simple interest.
+
+Q15.Scan a number from user.Print message "Correct Input" if it lies between 5 and 10.
+Otherwise print message "Wrong Input".

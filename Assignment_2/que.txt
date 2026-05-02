@@ -1,0 +1,32 @@
+Assignment 2
+
+Q1.Scan 3 integers from user.Print their average.
+
+Q2.Scan length and width of a rectangle , find area and perimeter of rectangle.
+If area is greater than 100, print message "Big rectangle" else print message 
+"Small Rectangle"
+
+Q3.Scan radius of a circle from user.Find area and circumference of circle.
+If area of circle is greater than 50,print how much it is greater than 50.
+If area is smaller than 50,print how much it is smalller than 50.
+Print every message properly.
+
+Q4.A customer has deposited 10000 Rs in bank in the form of Fixed Deposit for 3 years
+having rate of interest 5.00%.Find the total amount he will get after 3 years.
+If total amount he will receive is greater than 12000/-,then suggest him
+to invest them in mutual fund else suggest him to buy the gold.
+
+Q5.Scan a gender from user.If user enters m OR M , print male.
+If user enter f OR F, print female.Otherwise print wrong input.
+
+Q6.Scan length and width of a rectangle from user.Check if it is square or rectangle.
+
+Q7.Scan marks of 4 subjects of a student.If average of 4 subjects is greater than 75,
+print message DISTINCTION,else print message "STUDY MORE".
+
+Q8.WAP to print ascii value of any character.
+
+Q9.Scan salary of a person.If salary is greater than 10000, add 5% bonus in the salary.
+Else add 8% bonus in the salary.Print final salary.
+
+Q10.Scan 3 integers from user.Find the smallest of those 3 integers.
